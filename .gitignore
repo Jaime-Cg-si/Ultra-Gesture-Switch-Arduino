@@ -1,0 +1,65 @@
+# Arduino IDE generated files
+*.hex
+*.elf
+*.bin
+*.eep
+*.o
+*.d
+*.a
+*.lss
+*.sym
+*.map
+*.list
+
+# Build directories
+build/
+build-*/
+*.build/
+*.tmp
+*.log
+
+# Arduino IDE temporary files
+*.ino.cpp
+*.ino.h
+*.ino.withExtension.cpp
+*.ino.withExtension.h
+
+# Libraries
+libraries/
+src/libraries/
+
+# OS generated files
+# macOS
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Editor directories and files
+.vscode/
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+!.vscode/**/*.code-snippets
+
+# IDE files
+.idea/
+*.swp
+*.swo
+*~
+
+# Project-specific exclusions (add if needed)
+# Example: Ignore specific test files
+# tests/*.tmp
+
+# Global ignores (if you have .gitconfig global)
+# But prefer project-specific for control
